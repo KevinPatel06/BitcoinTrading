@@ -1,0 +1,15 @@
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\BitcoinTrading.exe
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\BitcoinTrading.deps.json
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\BitcoinTrading.runtimeconfig.json
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\BitcoinTrading.runtimeconfig.dev.json
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\BitcoinTrading.dll
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\BitcoinTrading.pdb
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.csprojAssemblyReference.cache
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.AssemblyInfoInputs.cache
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.AssemblyInfo.cs
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.csproj.CopyComplete
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.dll
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.pdb
+D:\Documents\GitHub\github\BitcoinTrading\BitcoinTrading\obj\Debug\netcoreapp3.1\BitcoinTrading.genruntimeconfig.cache

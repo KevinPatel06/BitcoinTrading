@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwqL5/fMQSBvuV7FNvn5IHoiO4r1wbVbh87b8XCMWgJY/yzf6z4l/jTvC41WBUMk88m3rWolhyd6u4d1v5EF1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\GitHub\\github\\BitcoinTrading\\BitcoinTrading\\BitcoinTrading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin Patel\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
